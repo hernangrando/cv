@@ -1,0 +1,25 @@
+/*Selector por Etiqueta*/
+h2 {
+    color: red;
+    background-color: pink;
+}
+h1  {
+    color:green
+}
+p   {
+    background-color: aquamarine;
+}
+li  {
+    background-color: cadetblue;
+}
+a   {
+    background-color: rebeccapurple ;
+}
+/*Selector por ID*/
+#parrafoUnico {
+    color: brown;
+} 
+/* Selector por clase (Class)*/
+.dorado {
+    color: goldenrod;
+}
